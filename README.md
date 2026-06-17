@@ -33,6 +33,7 @@ const naveen = {
   roles: ["Full-Stack Developer", "Tech Enthusiast", "Problem Solver"],
   funFact: "I build things that solve real problems, and write about them too ✍️"
 };
+```
 🛠️ Tech Stack
 💬 Languages<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
