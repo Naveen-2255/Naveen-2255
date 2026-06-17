@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- HEADER BANNER -->
-<img src="[https://raw.githubusercontent.com/Naveen-2255/Naveen-2255/7f1af4c8f37179ed16b79b47c31d9e51fdcfe042/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" width="100%" />
+<img src="[https://raw.githubusercontent.com/Naveen-2255/Naveen-2255/7f1af4c8f37179ed16b79b47c31d9e51fdcfe042/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" />
 
 <br>
 
